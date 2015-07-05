@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  Exerceo
+
+  Created by Billy on 4/07/2015.
+  Copyright (c) 2015 Billy. All rights reserved.
+*/
+
+"BMX" = "BMX";
+"Badminton" = "羽毛球";
+"Baseball" = "棒球";
+"Basketball" = "籃球";
+"Cricket" = "板球";
+"Run the Dog" = "跑狗";
+"Lawn Bowls" = "草地滾球";
+"Skateboarding"  = "滑板";
+"Swimming" = "游泳";
+"Tennis" = "網球";
+"Place Category" = "地方分類";
+"Event" = "活動";
+"Account Setting" =  "賬戶設置";
+"Favourite Place" = "喜歡的地方" ;
+"You have no event" = "你有沒有活動";
+"Add to Favourite" = "加入收藏";
+"Meeting" = "會議";
+"Event" = "活動";
+"Comment" = "評論";
+"Create New Event" = "創建新活動";
+"Make Comment" = "評論";
+"Submit" = "提交";
+"Back" = "返回";
+"Event Name" = "活動名稱" ;
+"Input your date" = "輸入您的日期" ;
+"Create Event" = "創建活動";
+"by" = "由";
+"Join" = "加入";
+"Address" = "地址";
+"Golf" = "高爾夫球";

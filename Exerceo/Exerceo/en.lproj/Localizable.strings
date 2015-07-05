@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  Exerceo
+
+  Created by Billy on 4/07/2015.
+  Copyright (c) 2015 Billy. All rights reserved.
+*/
+
+"BMX" = "BMX";
+"Badminton" = "Badminton";
+"BaseBall" = "Baseball";
+"Basketball" = "Basketball";
+"Cricket" = "Cricket";
+"Run the Dog" = "Run the Dog";
+"Lawn Bowl" = "Lawn Bowl";
+"Skate Boarding"  = "Skate Boarding";
+"Swimming" = "Swimming";
+"Tennis" = "Tennis";
+"Place Category" = "Place Category";
+"Event" = "Event";
+"Account Setting" =  "Account Setting";
+"Favourite Place" = "Favourite Place" ;
+"You have no event" = "You have no event";
+"Add to Favourite" = "Add to Favourite";
+"Meeting" = "Meeting";
+"Event" = "Event";
+"Comment" = "Comment";
+"Create New Event" = "Create New Event";
+"Make Comment" = "Make Comment";
+"Submit" = "Submit";
+"Back" = "Back";
+"Event Name" = "Event Name" ;
+"Input your date" = "Input your date" ;
+"Create Event" = "Create Event";
+"by" = "by";
+"Join" = "Join";
+"Address" = "Address";
+"Golf" = "Golf";

@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  Exerceo
+
+  Created by Billy on 4/07/2015.
+  Copyright (c) 2015 Billy. All rights reserved.
+*/
+
+"BMX" = "BMX";
+"Badminton" = "배드민턴";
+"Baseball" = "야구";
+"Basketball" = "농구";
+"Cricket" = "크리켓";
+"Run the Dog" = "개 를 실행합니다";
+"Lawn Bowls" = "잔디 그릇";
+"Skateboarding"  = "스케이트 보딩";
+"Swimming" = "수영";
+"Tennis" = "테니스";
+"Place Category" = "장소 카테고리";
+"Event" = "행사";
+"Account Setting" =  "계정 설정";
+"Favourite Place" = "좋아하는 장소" ;
+"You have no event" = "당신은 어떤 이벤트 가 없습니다";
+"Add to Favourite" = "즐겨 찾기 에 추가";
+"Meeting" = "모임";
+"Event" = "행사";
+"Comment" = "논평";
+"Create New Event" = "새로운 이벤트를 생성";
+"Make Comment" = "코멘트 를 확인";
+"Submit" = "제출";
+"Back" = "백";
+"Event Name" = "이벤트 이름" ;
+"Input your date" = "입력 날짜" ;
+"Create Event" = "이벤트 만들기";
+"by" = "로";
+"Join" = "가입";
+"Address" = "주소";
+"Golf" = "골프";
+

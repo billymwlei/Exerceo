@@ -1,0 +1,96 @@
+
+/* Class = "UILabel"; text = "blabakbaksdlaskdasdlkasjdas"; ObjectID = "2bq-uy-vPL"; */
+"2bq-uy-vPL.text" = "blabakbaksdlaskdasdlkasjdas";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "33I-x2-tO1"; */
+"33I-x2-tO1.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "7fF-tN-xRi"; */
+"7fF-tN-xRi.text" = "User Name";
+
+/* Class = "UIButton"; normalTitle = "Skip Login"; ObjectID = "7qY-ev-fKT"; */
+"7qY-ev-fKT.normalTitle" = "Skip Login";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "9nh-zm-Qqp"; */
+"9nh-zm-Qqp.normalTitle" = "Logout";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "BtM-AS-Ny3"; */
+"BtM-AS-Ny3.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "KzI-AC-fj8"; */
+"KzI-AC-fj8.text" = "Login";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "MnC-6U-V4S"; */
+"MnC-6U-V4S.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "N6e-2a-Ful"; */
+"N6e-2a-Ful.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "NiW-Cx-fJS"; */
+"NiW-Cx-fJS.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Place Name"; ObjectID = "OoM-O8-ELu"; */
+"OoM-O8-ELu.text" = "Place Name";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "WJn-JU-2KO"; */
+"WJn-JU-2KO.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "XqP-0k-TTm"; */
+"XqP-0k-TTm.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Event Name"; ObjectID = "ZV8-7b-Jsm"; */
+"ZV8-7b-Jsm.text" = "Event Name";
+
+/* Class = "UILabel"; text = "Category Name"; ObjectID = "Zab-t1-pKp"; */
+"Zab-t1-pKp.text" = "Category Name";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "dp8-AA-tz6"; */
+"dp8-AA-tz6.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "by User"; ObjectID = "eHB-CG-EKf"; */
+"eHB-CG-EKf.text" = "by User";
+
+/* Class = "UILabel"; text = "05.07.2015 17:00"; ObjectID = "fMV-Ma-crJ"; */
+"fMV-Ma-crJ.text" = "05.07.2015 17:00";
+
+/* Class = "UIButton"; normalTitle = "Create Event"; ObjectID = "g0g-qd-62Z"; */
+"g0g-qd-62Z.normalTitle" = "Create Event";
+
+/* Class = "UIButton"; normalTitle = "Join"; ObjectID = "g2W-E6-2DA"; */
+"g2W-E6-2DA.normalTitle" = "Join";
+
+/* Class = "UITextField"; placeholder = "Comment"; ObjectID = "g4J-T4-Uzi"; */
+"g4J-T4-Uzi.placeholder" = "Comment";
+
+/* Class = "UIButton"; normalTitle = "Make Comment"; ObjectID = "g91-Ed-KfJ"; */
+"g91-Ed-KfJ.normalTitle" = "Make Comment";
+
+/* Class = "UITextField"; placeholder = "Event Name"; ObjectID = "hN8-zD-G3q"; */
+"hN8-zD-G3q.placeholder" = "Event Name";
+
+/* Class = "UIButton"; normalTitle = "Sumbit"; ObjectID = "hV2-vZ-EHZ"; */
+"hV2-vZ-EHZ.normalTitle" = "Sumbit";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "oUG-RZ-Q8B"; */
+"oUG-RZ-Q8B.normalTitle" = "Register";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "p9K-bE-SG3"; */
+"p9K-bE-SG3.title" = "Title";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "rmo-GL-lxo"; */
+"rmo-GL-lxo.title" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Input your Date"; ObjectID = "tQJ-SG-XVR"; */
+"tQJ-SG-XVR.normalTitle" = "Input your Date";
+
+/* Class = "UIButton"; normalTitle = "Create New Event"; ObjectID = "xAp-DC-Q66"; */
+"xAp-DC-Q66.normalTitle" = "Create New Event";
+
+/* Class = "UITextField"; placeholder = "User Name"; ObjectID = "zQU-qW-DOc"; */
+"zQU-qW-DOc.placeholder" = "User Name";
+
+/* Class = "UILabel"; text = "1/1/2015"; ObjectID = "zRO-xU-OrC"; */
+"zRO-xU-OrC.text" = "1/1/2015";
+
+/* Class = "UINavigationItem"; title = "Places"; ObjectID = "zrq-OO-KYO"; */
+"zrq-OO-KYO.title" = "Places";

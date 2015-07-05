@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  Exerceo
+
+  Created by Billy on 4/07/2015.
+  Copyright (c) 2015 Billy. All rights reserved.
+*/
+
+"BMX" = "BMX";
+"Badminton" = "バドミントン";
+"BaseBall" = "野球";
+"Basketball" = "バスケットボール";
+"Cricket" = "クリケット";
+"Run the Dog" = "ドッグラン";
+"Lawn Bowl" = "ローンボウルズ";
+"Skate Boarding"  = "スケートパーク";
+"Swimming" = "プール";
+"Tennis" = "テニス";
+"Place Category" = "場所範疇";
+"Event" = "イベント";
+"Account Setting" =  "アカウント設定";
+"Favourite Place" = "お気に入りの場所" ;
+"You have no event" = "イベントがありません";
+"Add to Favourite" = "お気に入り";
+"Meeting" = "集会";
+"Event" = "イベント";
+"Comment" = "コメント";
+"Create New Event" = "新しいイベントを作成します";
+"Make Comment" = "コメントを書きます";
+"Submit" = "提出する";
+"Back" = "戻る";
+"Event Name" = "イベント名" ;
+"Input your date" = "入力日付" ;
+"Create Event" = "イベントを作成します";
+"by" = "から";
+"Join" = "入隊";
+"Address" = "住所";
+"Golf" = "ゴルフ";

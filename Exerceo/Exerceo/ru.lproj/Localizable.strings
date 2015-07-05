@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  Exerceo
+
+  Created by Billy on 4/07/2015.
+  Copyright (c) 2015 Billy. All rights reserved.
+*/
+
+"BMX" = "BMX";
+"Badminton" = "Бадминтон";
+"Baseball" = "Бейсбол";
+"Basketball" = "Баскетбол";
+"Cricket" = "Крикет";
+"Run the Dog" = "Бегущая Собака";
+"Lawn Bowls" = "Лоун Боулз";
+"Skateboarding"  = "Катание на скейте";
+"Swimming" = "Плавание";
+"Tennis" = "Теннис";
+"Place Category" = "Вид места";
+"Event" = "Мероприятие";
+"Account Setting" =  "Настройки";
+"Favourite Place" = "Избранное" ;
+"You have no event" = "Ничего не создано";
+"Add to Favourite" = "Добавить в избранное";
+"Meeting" = "Мероприятие";
+"Comment" = "Комментарии";
+"Create New Event" = "Создать мероприятие";
+"Make Comment" = "Прокомментировать";
+"Submit" = "Создать";
+"Back" = "Назад";
+"Event Name" = "Название" ;
+"Input your date" = "Дата" ;
+"Create Event" = "Создать мероприятие";
+"by" = "-";
+"Join" = "Присоединиться";
+"Address" = "Адрес";
+"Golf" = "Гольф";

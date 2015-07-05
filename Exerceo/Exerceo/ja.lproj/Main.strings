@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Address: blabakbaksdlaskdasdlkasjdas"; ObjectID = "2bq-uy-vPL"; */
+"2bq-uy-vPL.text" = "Address: blabakbaksdlaskdasdlkasjdas";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "33I-x2-tO1"; */
+"33I-x2-tO1.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Skip Login"; ObjectID = "7qY-ev-fKT"; */
+"7qY-ev-fKT.normalTitle" = "Skip Login";
+
+/* Class = "UILabel"; text = "You have No Event"; ObjectID = "BlY-tz-Tx7"; */
+"BlY-tz-Tx7.text" = "You have No Event";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "BtM-AS-Ny3"; */
+"BtM-AS-Ny3.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "KzI-AC-fj8"; */
+"KzI-AC-fj8.text" = "Login";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "MnC-6U-V4S"; */
+"MnC-6U-V4S.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Place Name"; ObjectID = "OoM-O8-ELu"; */
+"OoM-O8-ELu.text" = "Place Name";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "Uq5-Ru-jv1"; */
+"Uq5-Ru-jv1.text" = "Category";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "WJn-JU-2KO"; */
+"WJn-JU-2KO.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "XqP-0k-TTm"; */
+"XqP-0k-TTm.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Category Name"; ObjectID = "Zab-t1-pKp"; */
+"Zab-t1-pKp.text" = "Category Name";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fbv-pe-TbL"; */
+"fbv-pe-TbL.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "oUG-RZ-Q8B"; */
+"oUG-RZ-Q8B.normalTitle" = "Register";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "rmo-GL-lxo"; */
+"rmo-GL-lxo.title" = "Title";
+
+/* Class = "UITextField"; placeholder = "User Name"; ObjectID = "zQU-qW-DOc"; */
+"zQU-qW-DOc.placeholder" = "User Name";
+
+/* Class = "UINavigationItem"; title = "Places"; ObjectID = "zrq-OO-KYO"; */
+"zrq-OO-KYO.title" = "Places";
