@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>04B30B4F-60E8-4583-950B-ED1523AA4FA0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Exerceo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EDEA735A8E04685D2183DF9416674DDD12C21A72</key>
+		<string>https://github.com/billymwlei/Exerceo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Exerceo/Exerceo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EDEA735A8E04685D2183DF9416674DDD12C21A72</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/billymwlei/Exerceo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EDEA735A8E04685D2183DF9416674DDD12C21A72</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EDEA735A8E04685D2183DF9416674DDD12C21A72</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GovHack</string>
+		</dict>
+	</array>
+</dict>
+</plist>
