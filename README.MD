@@ -12,16 +12,15 @@ Let say I am new to Brisbane and I want to play Basketball.  I don’t know much
 
 
 
-<b>Who We Are?</b>
+<b>Who We Are?</b><br>
 
 We are all uni students from various unis throughout Australia (Deakin University, University of Melbourne, QUT and UQ) and are passionate about using open government data to help Australians. 
 
 Our team consists of;
 
-Randall Fernando
-Jeremy Morris
-Billy Man Wai Lei
-Jeff Tang
-Nick Wong
-Elizaveta Konavalova
-How we represent the spirit of Govhack?
+Randall Fernando<br>
+Jeremy Morris<br>
+Billy Man Wai Lei<br>
+Jeff Tang<br>
+Nick Wong<br>
+Elizaveta Konavalova<br>
